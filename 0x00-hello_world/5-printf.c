@@ -2,8 +2,9 @@
 /**
  * main - A program that prints a text followed by a new line using
  * printf function
- * return: 0
+ * Return: 0(code works)
  */
+
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
